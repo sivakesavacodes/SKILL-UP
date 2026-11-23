@@ -1,0 +1,6 @@
+{
+  "name": "SkillUp – Workshop Registration System",
+  "description": "College workshop registration desk for managing workshop catalogs, participant registrations, stack-based undo, GST billing, bill lookups, and registration reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
